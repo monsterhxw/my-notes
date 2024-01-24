@@ -1,2 +1,1 @@
-# my-notes
-技术随想
+# My Notes
